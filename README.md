@@ -1,3 +1,8 @@
+# Experimental
+This fork is for adding mistral support aka "sparsetral"
+
+---
+# Original README
 # Parameter-Efficient Sparsity Crafting From Dense to Mixture-of-Experts for Instruction Tuning on General Tasks
 
 <a href="https://github.com/wuhy68/Parameter-Efficient-MoE/blob/master/LICENSE">
