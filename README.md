@@ -1,7 +1,7 @@
 # Experimental
 This fork is for adding mistral support aka "sparsetral"
 
-- (1/23/2024) Sparsetral model with 16 experts and top_k of 4 trained on slim-orca with an effective batch size of 16 for 22000 steps (512 seq len) is showing promising results as an initial test for the architecture. Will merge adapters and release the weights to hugginfacehub shortly!
+- (1/23/2024) Sparsetral model with 16 experts and top_k of 4 trained on slim-orca with an effective batch size of 16 for 22000 steps (512 seq len) is showing promising results as an initial test for the architecture. Will merge adapters and release the weights to huggingfacehub shortly!
 
 ---
 # Original README
